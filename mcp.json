@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "my-mcp-server": {
+      "url": "http://54.238.226.250:3001/sse",
+      "protocol": "sse",
+      "headers": {
+        "Accept": "text/event-stream",
+        "Authorization": "Basic YWRtaW46c2VjcmV0"
+      }
+    }
+  }
+}
